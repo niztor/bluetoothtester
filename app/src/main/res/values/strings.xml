@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BluetoothTester</string>
+    <string name="text_connect_dev_info">Address: \n Name: \n Class: \n</string>
+    <string name="text_uuids">Uuids:</string>
+    <string name="text_sendtext">Text to send</string>
+    <string name="text_cr_lf">CR/LF</string>
+    <string name="text_received">Received:</string>
+    <string name="text_sdp">SDP</string>
+    <string name="text_connect">Connect</string>
+    <string name="text_button_sendtext">SendText</string>
+</resources>
