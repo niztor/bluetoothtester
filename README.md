@@ -42,8 +42,6 @@ To be noted:
 
       if (hc06.available()) {
         char c = hc06.read();
-        if (c == CR)
-          Serial.println("x");
         Serial.write(c);
       }
   
