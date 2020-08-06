@@ -13,7 +13,7 @@ Through using this App you can
 
 To be noted:
 
-- An utility class that encapsulate the bluetoothsocket handling was implemented. 
+- An utility class that encapsulate the bluetoothsocket handling was implemented. Can be reused.
 - All the code was based on guides from https://developer.android.com/guide/topics/connectivity/bluetooth
 
 
@@ -65,3 +65,10 @@ To be noted:
       }    
  
     }
+
+### TODO
+
+- Try to encapsulate Bluetooth Scan Discovery 
+- Use coroutines instead of Threads
+- Hexdump mode for reading
+- Better UI
