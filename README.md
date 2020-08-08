@@ -8,7 +8,7 @@ Through using this App you can
 
 - Show Bonded Devices
 - Scan for new Devices
-- Connect to new Devices
+- Connect to new Devices/UUID
 - Send and Receive Data
 
 To be noted:
